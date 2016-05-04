@@ -15,7 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Nicat\\Lariff\\": "src/"
+            "Nicat\\Lariff\\": "src/",
+            "Heise\\Shariff\\": "src/Shariff"
         }
     }
 }

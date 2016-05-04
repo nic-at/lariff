@@ -1,0 +1,21 @@
+{
+    "name": "nicat/lariff",
+    "description": "An Laravel 5 provider for heise Shariff - Share Button privacy save",
+    "license": "copyright nicat - all rights reserved",
+    "authors": [
+        {
+            "name": "Mario Öhlschläger",
+            "email": "mario.oehlschlaeger@nic.at"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nicat\\Lariff\\": "src/"
+        }
+    }
+}

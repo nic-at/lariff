@@ -27,7 +27,7 @@ Append Lariff Service Provider to your Application `app.php`
 
 Use in your view after yout installed an configured [shariff social media buttons](https://github.com/heiseonline/shariff)
 ```html
-<div class="shariff" data-backend-url="{{ route('lariff') }}" data-url="http://www.nic.at" data-theme="grey" data-orientation="vertical" data-services="[&quot;whatsapp&quot;,&quot;xing&quot;,&quot;twitter&quot;,&quot;facebook&quot;,&quot;googleplus&quot;,&quot;linkedin&quot;]"></div>
+<div class="shariff" data-backend-url="{{ route('lariff') }}" data-url="http://www.nic.at" data-theme="grey" data-orientation="vertical" data-services="[&quot;xing&quot;,&quot;twitter&quot;,&quot;facebook&quot;,&quot;googleplus&quot;,&quot;linkedin&quot;,&quot;whatsapp&quot;]"></div>
 ```
 
 #### Install Shariff Social Media Buttons CSS/JS

@@ -11,7 +11,8 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.1.*"
+        "laravel/framework": "5.1.*",
+        "heise/shariff": "dev-develop@dev"
     },
     "autoload": {
         "psr-4": {

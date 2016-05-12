@@ -1,5 +1,5 @@
 # Lariff is integrated Shariff for Laravel 5
-[![Dependency Status](https://www.versioneye.com/user/projects/5729f39ba0ca35004baf83dd/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5729f39ba0ca35004baf83dd)
+[![Dependency Status](https://www.versioneye.com/user/projects/5729f394a0ca35005084073f/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5729f394a0ca35005084073f)
 ## Shariff
 Shariff is used to determine how often a page is shared in social media, but without generating requests from the displaying page to the social sites.....
 [more - project link](https://github.com/heiseonline/shariff-backend-php)

@@ -42,7 +42,7 @@ class LariffServiceProvider extends ServiceProvider
         );
 
         $this->publishes([
-            __DIR__ . '/config/lariff.php' => config_path('lariff')
+            __DIR__ . '/config/lariff.php' => config_path('lariff.php')
         ]);
     }
 }
